@@ -1,4 +1,6 @@
-# social-network-vue
+# Social network frontend
+
+This is frontend for social network application. This is written in Vue.js using vue-bootstrap for styles
 
 ## Project setup
 ```
